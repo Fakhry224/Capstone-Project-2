@@ -1,0 +1,95 @@
+#content-text,
+label {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+  color: #4f709c;
+  font-size: 18px;
+}
+
+#brand,
+#project-main-title {
+  font-family: "Reem Kufi", sans-serif;
+  color: #213555;
+}
+
+#semibold-text,
+#button-container {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+}
+
+#bold-text {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  color: #213555;
+}
+
+#main-title > h4 {
+  color: #4f709c;
+}
+
+.navbar {
+  background-color: #d8c4b6;
+}
+
+.nav-link {
+  color: #213555 !important;
+}
+.active {
+  color: #f5efe7 !important;
+  background-color: #4f709c !important;
+}
+
+.btn-primary {
+  background-color: #4f709c !important;
+  color: #f5efe7 !important;
+  border: none !important;
+}
+
+.resume-page {
+  background-color: #d8c4b6;
+}
+
+.card-title {
+  text-align: left;
+  margin-left: 1rem;
+}
+
+.footer-link {
+  list-style: none;
+}
+
+.footer-section {
+  background-color: #d8c4b6;
+}
+
+.footer-link li {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.bi {
+  color: #213555;
+}
+
+.copyright-text {
+  opacity: 70%;
+}
+
+#cm-container {
+  margin-left: 8rem;
+}
+
+#project-container {
+  margin: 5rem 0 5rem 0;
+}
+
+#link-resume {
+  text-decoration: none;
+  color: inherit;
+}
+
+#button-container {
+  text-decoration: none;
+  color: inherit;
+}
